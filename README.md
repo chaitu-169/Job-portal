@@ -87,9 +87,9 @@ job-portal/
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/job-portal.git 
+git clone https://github.com/chaitu-169/job-portal.git 
 cd job-portal
 
 
 ### Contact
-sriramchaitu383@gmail.com
+sriramchaitu383@gmail.comgit commit -m "first commit"
